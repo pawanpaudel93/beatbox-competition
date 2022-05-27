@@ -1,0 +1,6 @@
+[submodule "dApp"]
+	path = dApp
+	url = git@github.com:pawanpaudel93/beatbox-competition-dapp.git
+[submodule "contract"]
+	path = contract
+	url = git@github.com:pawanpaudel93/beatbox-competition-contract.git
