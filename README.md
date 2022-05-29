@@ -1,11 +1,12 @@
 <p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="https://raw.githubusercontent.com/pawanpaudel93/beatbox-competition-dapp/370e7722377731263e4184ea067a1a849cbbf473/public/logo.png" alt="Online Beatbox Competition"></a>
- <a href="https://www.flaticon.com/free-icons/beat-box" title="beat box icons">Beat box icons created by surang - Flaticon</a>
+ <br />
+  <a href="https://www.flaticon.com/free-icons/beat-box" title="beat box icons">Beat box icons created by surang - Flaticon</a>
 </p>
 
 <h3 align="center">Online Beatbox Competition</h3> 
-<p align="center">[Demo Link]("https://beatbox-competition-dapp.vercel.app/")</p>
+<p align="center"><a href="https://beatbox-competition-dapp.vercel.app">Demo Link</a></p>
 
 ---
 
@@ -18,9 +19,8 @@
 - [About](#about)
 - [Usage](#usage)
 - [Built Using](#built_using)
-- [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+- [Thanks](#thanks)
 
 ## 🧐 About <a name = "about"></a>
 
@@ -64,5 +64,5 @@ The smart contract used for the project ensures that the competition contract is
 See also the list of [contributors](https://github.com/pawanpaudel93/beatbox-competition/contributors) who participated in this project.
 
 ## 🎉 Thanks <a name = "thanks"></a>
-- [BBU]("https://www.youtube.com/watch?v=xMYglWGueVc") for the competition concept. 
-- Matt | Block-Farms.io#7823 for helping me with Youtube External Adapter.
+- [SXIN & Chezame](https://www.youtube.com/watch?v=xMYglWGueVc) for the competition concept. 
+- Matt | Block-Farms.io#7823 on Chainlink discord for helping me with Youtube External Adapter.
