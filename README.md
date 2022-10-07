@@ -56,6 +56,7 @@ The smart contract used for the project ensures that the competition contract is
 - [Nextjs](https://nextjs.org/) - Reactjs Web Development Framework
 - [Chakra UI](https://chakra-ui.com/) - A simple, modular and accessible component library.
 - [Hardhat](https://hardhat.org/) - Ethereum Development Environment
+- [Alchemy](https://alchemy.com/) - Web3 Development Tools
 
 ## ✍️ Authors <a name = "authors"></a>
 
